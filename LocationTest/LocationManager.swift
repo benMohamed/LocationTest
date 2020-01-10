@@ -1,5 +1,5 @@
 //
-//  LocationManager.swift
+//  LocationManager.swift 
 //  LocationTest
 //
 //  Created by bendnaiba on 8/8/17.
