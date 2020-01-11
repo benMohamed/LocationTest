@@ -8,7 +8,7 @@
 
 import UIKit
 import CoreLocation
-
+ 
 class LocationManager: NSObject, CLLocationManagerDelegate{
 
     let locationManager = CLLocationManager()
