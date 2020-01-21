@@ -1,5 +1,3 @@
-platform :ios do
- desc "Deploying iOS LocationTest app to App Center"
  lane :beta do
    get_provisioning_profile(
       adhoc: true,
@@ -8,4 +6,3 @@ platform :ios do
     )
    gym(scheme: "LocationTest")
  end
-end
