@@ -1,3 +1,4 @@
 lane :beta do
+  sigh
   gym(scheme: "LocationTest")
 end
