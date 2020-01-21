@@ -1,4 +1,11 @@
-lane :beta do
-  sigh
-  gym(scheme: "LocationTest")
+platform :ios do
+ desc "Deploying iOS LocationTest app to App Center"
+ lane :beta do
+   get_provisioning_profile(
+      adhoc: true,
+      username: "Mohamed Bendnaiba",
+      provisioning_name: "LocationTest_AdHoc"
+    )
+   gym(scheme: "LocationTest")
+ end
 end
