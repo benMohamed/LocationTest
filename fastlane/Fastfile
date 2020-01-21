@@ -4,7 +4,6 @@
       provisioning_name: "LocationTest_AdHoc"
     )
    gym(
-      scheme: "LocationTest",
-      export_method: ad-hoc
+      scheme: "LocationTest"
      )
  end
