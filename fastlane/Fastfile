@@ -1,7 +1,6 @@
  lane :beta do
-   get_provisioning_profile(
+   sigh(
       adhoc: true,
-      username: "Mohamed Bendnaiba",
       provisioning_name: "LocationTest_AdHoc"
     )
    gym(scheme: "LocationTest")
