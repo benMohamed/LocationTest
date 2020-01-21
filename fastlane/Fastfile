@@ -1,5 +1,6 @@
 lane :beta do
-  get_certificates           # invokes cert
-  get_provisioning_profile   # invokes sigh
-  build_app #(scheme: "LocationTest")
+  build_app(
+      scheme: "LocationTest",
+      output_directory: "./platforms/ios"
+    )
 end
