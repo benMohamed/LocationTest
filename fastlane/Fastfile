@@ -1,6 +1,5 @@
  lane :beta do
    sigh(
-      adhoc: true,
       provisioning_name: "LocationTest_AdHoc"
     )
    gym(
