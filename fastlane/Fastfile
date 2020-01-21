@@ -1,3 +1,4 @@
 lane :beta do
-  build(scheme: "LocationTest")
+  gym
+  #build(scheme: "LocationTest")
 end
