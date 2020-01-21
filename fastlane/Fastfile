@@ -1,4 +1,4 @@
 lane :beta do
-  gym
-  #build(scheme: "LocationTest")
+  #gym
+  #build_ios_app(scheme: "LocationTest")
 end
