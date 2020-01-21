@@ -1,4 +1,5 @@
 lane :beta do
-  #gym
-  build_ios_app(scheme: "LocationTest")
+  get_certificates           # invokes cert
+  get_provisioning_profile   # invokes sigh
+  build_app #(scheme: "LocationTest")
 end
