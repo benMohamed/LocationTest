@@ -5,6 +5,6 @@
     )
    gym(
       scheme: "LocationTest",
-      export_method: "ad-hoc"
+      export_method: ad-hoc
      )
  end
