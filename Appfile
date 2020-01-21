@@ -1,8 +1,0 @@
-app_identifier("com.stibits.LocationTest") # The bundle identifier of your app
-apple_id("mbendnaiba@stibits.io") # Your Apple email address
-
-itc_team_id("120515454") # App Store Connect Team ID
-team_id("UBLBCH5PYQ") # Developer Portal Team ID
-
-# For more information about the Appfile, see:
-#     https://docs.fastlane.tools/advanced/#appfile
