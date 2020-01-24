@@ -1,6 +1,6 @@
- lane :beta do
+lane :beta do
    build_app(
       scheme: "LocationTest"
      )
   #upload_to_testflight(changelog: "Add rocket emoji")
- end
+end
