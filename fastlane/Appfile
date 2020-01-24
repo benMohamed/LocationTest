@@ -1,4 +1,4 @@
-app_identifier "com.stibits.LocationTest1" # The bundle identifier of your app
+app_identifier "com.stibits.LocationTest" # The bundle identifier of your app
 apple_id "mbendnaiba@stibits.io" # Your Apple email address
 
 team_id "UBLBCH5PYQ" # Developer Portal Team ID
