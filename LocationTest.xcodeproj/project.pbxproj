@@ -269,7 +269,7 @@
 				CURRENT_PROJECT_VERSION = 1.0.1;
 				DEVELOPMENT_TEAM = UBLBCH5PYQ;
 				INFOPLIST_FILE = LocationTest/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.stibits.LocationTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -285,7 +285,7 @@
 				CURRENT_PROJECT_VERSION = 1.0.1;
 				DEVELOPMENT_TEAM = UBLBCH5PYQ;
 				INFOPLIST_FILE = LocationTest/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.stibits.LocationTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
