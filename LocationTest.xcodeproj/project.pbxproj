@@ -99,7 +99,7 @@
 				TargetAttributes = {
 					412EFF6B1F39BF9C00526D64 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = UBLBCH5PYQ;
+						DevelopmentTeam = NYYKA89FPF;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -267,11 +267,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1.0.1;
-				DEVELOPMENT_TEAM = UBLBCH5PYQ;
+				DEVELOPMENT_TEAM = NYYKA89FPF;
 				INFOPLIST_FILE = LocationTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.stibits.LocationTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stibits.LocationTest1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -283,11 +283,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1.0.1;
-				DEVELOPMENT_TEAM = UBLBCH5PYQ;
+				DEVELOPMENT_TEAM = NYYKA89FPF;
 				INFOPLIST_FILE = LocationTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.stibits.LocationTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stibits.LocationTest1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
