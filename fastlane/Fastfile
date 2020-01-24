@@ -1,5 +1,6 @@
  lane :beta do
-   gym(
-      scheme: "LocationTest"
-     )
+   #gym(
+   #   scheme: "LocationTest"
+   #  )
+  upload_to_testflight(changelog: "Add rocket emoji")
  end
