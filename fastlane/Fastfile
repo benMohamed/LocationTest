@@ -2,5 +2,6 @@ lane :beta do
    build_app(
       scheme: "LocationTest"
      )
+  enable_automatic_code_signing(path: "LocationTest.xcodeproj")
   #upload_to_testflight(changelog: "Add rocket emoji")
 end
