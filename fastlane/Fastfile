@@ -1,5 +1,5 @@
 lane :beta do
-  enable_automatic_code_signing(path: "LocationTest.xcodeproj")
+  get_provisioning_profile
    build_app(
       scheme: "LocationTest"
      )
