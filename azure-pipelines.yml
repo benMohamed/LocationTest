@@ -28,7 +28,7 @@ steps:
     configuration: 'Release'
     xcWorkspacePath: '**/*.xcodeproj/project.xcworkspace'
     xcodeVersion: 'default' # Options: 9, 10, 11, default, specifyPath
-
+    packageApp: true
 # App Center distribute
 # Distribute app builds to testers and users via Visual Studio App Center
 - task: AppCenterDistribute@1
