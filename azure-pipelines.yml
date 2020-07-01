@@ -31,6 +31,10 @@ steps:
     teamId: 'UBLBCH5PYQ'
     exportTeamId: 'UBLBCH5PYQ'
     packageApp: true
+    signingOption: 'manual'
+    signingIdentity: '$(APPLE_CERTIFICATE_SIGNING_IDENTITY)'
+    provisioningProfileUuid: '$(APPLE_PROV_PROFILE_UUID)'
+
 # App Center distribute
 # Distribute app builds to testers and users via Visual Studio App Center
 - task: AppCenterDistribute@1
