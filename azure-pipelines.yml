@@ -32,9 +32,9 @@ steps:
 # App Center distribute
 # Distribute app builds to testers and users via Visual Studio App Center
 - task: AppCenterDistribute@1
-  displayName: 'Deploy **/*.ipa to Visual Studio App Center'
+  displayName: 'Deploy ipa to Visual Studio App Center'
   inputs:
-    serverEndpoint: 'benMohamed'
+    serverEndpoint: 'LocationTestAppCenterConnection'
     appSlug: 'bendnaiba/LocationTest'
     appFile: '$(build.artifactstagingdirectory)/*.ipa'
     #symbolsOption: 'Apple' # Optional. Options: apple
