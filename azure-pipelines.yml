@@ -30,10 +30,11 @@ steps:
     xcodeVersion: 'default' # Options: 9, 10, 11, default, specifyPath
     #teamId: UBLBCH5PYQ
     #exportTeamId: UBLBCH5PYQ
-    packageApp: true
     signingOption: 'manual'
     signingIdentity: '$(APPLE_CERTIFICATE_SIGNING_IDENTITY)'
     provisioningProfileUuid: '$(APPLE_PROV_PROFILE_UUID)'
+    packageApp: true
+
 
 # App Center distribute
 # Distribute app builds to testers and users via Visual Studio App Center
