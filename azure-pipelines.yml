@@ -13,7 +13,7 @@ trigger:
 steps:
 - task: InstallAppleCertificate@2
   inputs:
-    certSecureFile: 'CertificatesStibitsProd.p12'
+    certSecureFile: 'CertificatesStibitsIphoneProd.p12'
     certPwd: $(P12Password)
 
 - task: InstallAppleProvisioningProfile@1
