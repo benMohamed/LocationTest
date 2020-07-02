@@ -21,6 +21,7 @@ steps:
     provProfileSecureFile: 'comstibitsLocationTest_AppStore.mobileprovision'
 
 - task: Xcode@5
+  displayName: 'Build xcode project'
   inputs:
     actions: 'build'
     scheme: 'LocationTest'
@@ -35,7 +36,10 @@ steps:
     provisioningProfileUuid: '$(APPLE_PROV_PROFILE_UUID)'
     packageApp: true
 
-
+- task: CopyFiles@2
+  inputs:
+    contents: '**/*.ipa'
+    targetFolder: '$(build.artifactStagingDirectory)'
 # App Center distribute
 # Distribute app builds to testers and users via Visual Studio App Center
 - task: AppCenterDistribute@1
@@ -43,7 +47,7 @@ steps:
   inputs:
     serverEndpoint: 'LocationTestAppCenterConnection'
     appSlug: 'bendnaiba/LocationTest'
-    appFile: '$(build.artifactstagingdirectory)/LocationTest.ipa'
+    appFile: '$(build.artifactstagingdirectory)/*.ipa'
     #symbolsOption: 'Apple' # Optional. Options: apple
     #symbolsPath: # Optional
     #symbolsPdbFiles: '**/*.pdb' # Optional
