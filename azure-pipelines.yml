@@ -43,7 +43,7 @@ steps:
   inputs:
     serverEndpoint: 'LocationTestAppCenterConnection'
     appSlug: 'bendnaiba/LocationTest'
-    appFile: '$(build.artifactstagingdirectory)/*.ipa'
+    appFile: '$(build.artifactstagingdirectory)/LocationTest.ipa'
     #symbolsOption: 'Apple' # Optional. Options: apple
     #symbolsPath: # Optional
     #symbolsPdbFiles: '**/*.pdb' # Optional
