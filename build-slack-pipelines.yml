@@ -11,15 +11,6 @@ trigger:
 # The `certSecureFile` and `provProfileSecureFile` files are uploaded to the Azure Pipelines secure files library where they are encrypted.
 # The `P12Password` variable is set in the Azure Pipelines pipeline editor and marked 'secret' to be encrypted.
 steps:
-- task: InstallAppleCertificate@2
-  inputs:
-    certSecureFile: 'CertificatesStibitsIphoneProd.p12'
-    certPwd: $(P12Password)
-
-- task: InstallAppleProvisioningProfile@1
-  inputs:
-    provProfileSecureFile: 'comstibitsLocationTest_AppStore.mobileprovision'
-
 - task: Xcode@5
   displayName: 'Build xcode project'
   inputs:
