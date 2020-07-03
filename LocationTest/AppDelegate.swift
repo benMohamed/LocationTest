@@ -10,7 +10,7 @@ import UIKit
  
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
- 
+
     let locationManager:LocationManager = LocationManager()
     var window: UIWindow?
 
