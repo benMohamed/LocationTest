@@ -42,12 +42,12 @@ steps:
 #    targetFolder: '$(build.artifactStagingDirectory)'
 # App Center distribute
 # Distribute app builds to testers and users via Visual Studio App Center
-- task: AppCenterDistribute@1
-  displayName: 'Deploy ipa to Visual Studio App Center'
-  inputs:
-    serverEndpoint: 'LocationTestAppCenterConnection'
-    appSlug: 'bendnaiba/LocationTest'
-    appFile: 'output/$(SDK)/$(Configuration)/*.ipa'#'$(build.artifactstagingdirectory)/*.ipa'
+#- task: AppCenterDistribute@1
+#  displayName: 'Deploy ipa to Visual Studio App Center'
+#  inputs:
+#    serverEndpoint: 'LocationTestAppCenterConnection'
+#    appSlug: 'bendnaiba/LocationTest'
+#    appFile: 'output/$(SDK)/$(Configuration)/*.ipa'#'$(build.artifactstagingdirectory)/*.ipa'
     #symbolsOption: 'Apple' # Optional. Options: apple
     #symbolsPath: # Optional
     #symbolsPdbFiles: '**/*.pdb' # Optional
@@ -55,7 +55,7 @@ steps:
     #symbolsMappingTxtFile: # Optional
     #symbolsIncludeParentDirectory: # Optional
     #releaseNotesOption: 'input' # Options: input, file
-    releaseNotesInput: 'My First test to AppCenter'
+#    releaseNotesInput: 'My First test to AppCenter'
     #releaseNotesFile: # Required when releaseNotesOption == File
     #isMandatory: false # Optional
     #distributionGroupId: # Optional
