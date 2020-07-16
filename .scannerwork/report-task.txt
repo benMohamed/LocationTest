@@ -1,0 +1,6 @@
+projectKey=LocationTest
+serverUrl=http://localhost:9000
+serverVersion=8.4.0.35506
+dashboardUrl=http://localhost:9000/dashboard?id=LocationTest
+ceTaskId=AXNTNjWn8EVhgvviWoGz
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXNTNjWn8EVhgvviWoGz

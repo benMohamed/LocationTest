@@ -1,0 +1,58 @@
+Analyzing 3 files:
+...
+
+[44;30m**********[m [42;30m/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/AppDelegate.swift[m [44;30m**********[m
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/AppDelegate.swift:[44;30m10:[m[44;30m01:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/AppDelegate.swift:[44;30m14:[m[44;30m24:[m [43;30mwarning:[m [colon-whitespace] Colon at column 24 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/AppDelegate.swift:[44;30m20:[m[44;30m12:[m [43;30mwarning:[m [redundant-parentheses] Condition should not be enclosed within parentheses
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/AppDelegate.swift:[44;30m21:[m[44;30m30:[m [43;30mwarning:[m [colon-whitespace] Colon at column 30 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/AppDelegate.swift:[44;30m24:[m[44;30m09:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/AppDelegate.swift:[44;30m52:[m[44;30m   [m [43;30mwarning:[m [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+[44;30m**********[m [42;30m/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift[m [44;30m**********[m
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m12:[m[44;30m059:[m [43;30mwarning:[m [brace-style] Opening brace should have exactly one space before it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m25:[m[44;30m004:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m28:[m[44;30m054:[m [43;30mwarning:[m [forced-type-cast] Force casts should be avoided
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m29:[m[44;30m021:[m [43;30mwarning:[m [colon-whitespace] Colon at column 21 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m33:[m[44;30m004:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m34:[m[44;30m038:[m [43;30mwarning:[m [colon-whitespace] Colon at column 38 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m35:[m[44;30m016:[m [43;30mwarning:[m [colon-whitespace] Colon at column 16 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m35:[m[44;30m047:[m [43;30mwarning:[m [colon-whitespace] Colon at column 47 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m36:[m[44;30m017:[m [43;30mwarning:[m [colon-whitespace] Colon at column 17 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m36:[m[44;30m048:[m [43;30mwarning:[m [colon-whitespace] Colon at column 48 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m37:[m[44;30m025:[m [43;30mwarning:[m [colon-whitespace] Colon at column 25 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m37:[m[44;30m119:[m [43;30mwarning:[m [colon-whitespace] Colon at column 119 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m37:[m[44;30m143:[m [43;30mwarning:[m [colon-whitespace] Colon at column 143 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m37:[m[44;30m168:[m [43;30mwarning:[m [colon-whitespace] Colon at column 168 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m38:[m[44;30m012:[m [43;30mwarning:[m [redundant-parentheses] Condition should not be enclosed within parentheses
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m39:[m[44;30m030:[m [43;30mwarning:[m [colon-whitespace] Colon at column 30 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m43:[m[44;30m013:[m [43;30mwarning:[m [brace-style] Opening brace should have exactly one space before it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/LocationManager.swift:[44;30m44:[m[44;30m030:[m [43;30mwarning:[m [colon-whitespace] Colon at column 30 should have exactly one space after it
+
+[44;30m**********[m [42;30m/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift[m [44;30m**********[m
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m12:[m[44;30m004:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m13:[m[44;30m033:[m [43;30mwarning:[m [colon-whitespace] Colon at column 33 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m14:[m[44;30m007:[m [43;30mwarning:[m [comment-whitespace] Single-line comment should start with whitespace
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m15:[m[44;30m022:[m [43;30mwarning:[m [colon-whitespace] Colon at column 22 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m20:[m[44;30m012:[m [43;30mwarning:[m [redundant-parentheses] Condition should not be enclosed within parentheses
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m24:[m[44;30m011:[m [43;30mwarning:[m [comment-whitespace] Single-line comment should start with whitespace
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m32:[m[44;30m004:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m33:[m[44;30m007:[m [43;30mwarning:[m [comment-whitespace] Single-line comment should start with whitespace
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m34:[m[44;30m004:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m38:[m[44;30m004:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m41:[m[44;30m025:[m [43;30mwarning:[m [colon-whitespace] Colon at column 25 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m41:[m[44;30m088:[m [43;30mwarning:[m [forced-type-cast] Force casts should be avoided
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m43:[m[44;30m016:[m [43;30mwarning:[m [colon-whitespace] Colon at column 16 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m43:[m[44;30m065:[m [43;30mwarning:[m [forced-type-cast] Force casts should be avoided
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m44:[m[44;30m017:[m [43;30mwarning:[m [colon-whitespace] Colon at column 17 should have exactly one space after it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m44:[m[44;30m067:[m [43;30mwarning:[m [forced-type-cast] Force casts should be avoided
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m47:[m[44;30m008:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m50:[m[44;30m004:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m51:[m[44;30m007:[m [43;30mwarning:[m [comment-whitespace] Single-line comment should start with whitespace
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m52:[m[44;30m004:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m53:[m[44;30m107:[m [43;30mwarning:[m [colon-whitespace] Colon at column 107 should have no spaces before it
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m60:[m[44;30m004:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/mohammed/Desktop/Mohamed/Projects/DEVOPS/LocationTest/LocationTest/ViewController.swift:[44;30m63:[m[44;30m    [m [43;30mwarning:[m [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+Analyzed 3 files, skipped 0 files, and detected 47 violations (0 errors, 47 warnings).
+

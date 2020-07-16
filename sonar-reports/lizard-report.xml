@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/terryyin/lizard/master/lizard.xsl"?>
+<cppncss>
+	<measure type="Function">
+		<labels>
+			<label>Nr.</label>
+			<label>NCSS</label>
+			<label>CCN</label>
+		</labels>
+		<item name="viewDidLoad(...) at ./LocationTest/ViewController.swift:17">
+			<value>1</value>
+			<value>8</value>
+			<value>2</value>
+		</item>
+		<item name="didReceiveMemoryWarning(...) at ./LocationTest/ViewController.swift:28">
+			<value>2</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="tableView(...) at ./LocationTest/ViewController.swift:35">
+			<value>3</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="tableView(...) at ./LocationTest/ViewController.swift:39">
+			<value>4</value>
+			<value>9</value>
+			<value>1</value>
+		</item>
+		<item name="observeValue(...) at ./LocationTest/ViewController.swift:53">
+			<value>5</value>
+			<value>6</value>
+			<value>3</value>
+		</item>
+		<average label="NCSS" value="5.8"/>
+		<average label="CCN" value="1.6"/>
+		<item name="application(...) at ./LocationTest/AppDelegate.swift:18">
+			<value>6</value>
+			<value>8</value>
+			<value>3</value>
+		</item>
+		<item name="applicationWillResignActive(...) at ./LocationTest/AppDelegate.swift:28">
+			<value>7</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationDidEnterBackground(...) at ./LocationTest/AppDelegate.swift:33">
+			<value>8</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationWillEnterForeground(...) at ./LocationTest/AppDelegate.swift:38">
+			<value>9</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationDidBecomeActive(...) at ./LocationTest/AppDelegate.swift:42">
+			<value>10</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationWillTerminate(...) at ./LocationTest/AppDelegate.swift:46">
+			<value>11</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="4.2727272727272725"/>
+		<average label="CCN" value="1.4545454545454546"/>
+		<item name="initLocation(...) at ./LocationTest/LocationManager.swift:16">
+			<value>12</value>
+			<value>8</value>
+			<value>2</value>
+		</item>
+		<item name="locationManager(...) at ./LocationTest/LocationManager.swift:26">
+			<value>13</value>
+			<value>7</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="4.769230769230769"/>
+		<average label="CCN" value="1.4615384615384615"/>
+	</measure>
+	<measure type="File">
+		<labels>
+			<label>Nr.</label>
+			<label>NCSS</label>
+			<label>CCN</label>
+			<label>Functions</label>
+		</labels>
+		<item name="./LocationTest/ViewController.swift">
+			<value>1</value>
+			<value>34</value>
+			<value>8</value>
+			<value>5</value>
+		</item>
+		<item name="./LocationTest/AppDelegate.swift">
+			<value>2</value>
+			<value>24</value>
+			<value>8</value>
+			<value>6</value>
+		</item>
+		<item name="./LocationTest/LocationManager.swift">
+			<value>3</value>
+			<value>36</value>
+			<value>3</value>
+			<value>2</value>
+		</item>
+		<average label="NCSS" value="31.333333333333332"/>
+		<average label="CCN" value="6.333333333333333"/>
+		<average label="Functions" value="4.333333333333333"/>
+		<sum label="NCSS" value="94"/>
+		<sum label="CCN" value="19"/>
+		<sum label="Functions" value="13"/>
+		<average label="NCSS" value="4.769230769230769"/>
+		<average label="CCN" value="1.4615384615384615"/>
+	</measure>
+</cppncss>
+

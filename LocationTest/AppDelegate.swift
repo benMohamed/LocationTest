@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+ 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
@@ -22,7 +22,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             let locationArray:NSMutableArray = NSMutableArray(array: UserDefaults.standard.array(forKey: "location")!)
             print("locationArray ", locationArray)
         }
-        
+         
         return true
     }
 
